@@ -11,4 +11,9 @@ Uh, cause you got invited?
 
 When you are first starting out you should accept pretty much every opportunity to speak about your research you get. In approximate order of importance, the value of talks early in your career are:
 
-* To meet people
+1. To meet people
+2. To advertise your ideas/software/results
+3. To practice speaking
+
+Later the reasons evolve, altough not be as much as you'd think. 
+
