@@ -17,7 +17,9 @@ When you are first starting out you should accept pretty much every opportunity 
 2. To advertise your ideas/software/results
 3. To practice speaking
 
-Later the reasons evolve, altough not be as much as you'd think. The main one that changes is 3, which evolves more into "to show people you are a good speaker". 
+Later the reasons evolve, altough not be as much as you'd think. The main change is that 3 evolves more into "to show people you are a good speaker". 
+
+The first two components can not be overstated. One of the primary reasons to go give a talk is to meet people. 
 
 
 
