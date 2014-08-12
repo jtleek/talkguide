@@ -38,5 +38,8 @@ That being said, be very careful to avoid giving a [TED talk](https://www.ted.co
 What should you talk about?
 ----------------
 
-It depends on the forum. If it is a local event in the genomics working group or our group meeting, you should plan on talking about something unfinished. The goal is to communicate where you are with the project and more importantly, what are the issues you are stuck on and where you could use help. This kind of talk is 
+It depends on the event and the goals of the event. Here is a non-comprehensive list:
 
+* __Group meeting__: Something that is in progress. A quick update on where you are at with a focus on where you are going and what you are stuck on. 
+* __Short talk at conference__: Something you have finished and have at least a tech report, blog post, or R package available for. Focus on getting people excited about seeing the long form version of the product. 
+* __Formal seminar__: Something that is finished where you can give an in depth over view of what you are working on. 
