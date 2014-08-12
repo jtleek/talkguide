@@ -38,5 +38,5 @@ That being said, be very careful to avoid giving a [TED talk](https://www.ted.co
 What should you talk about?
 ----------------
 
-You should talk about a project that you have 
+It depends on the forum. If it is a local event in the genomics working group or our group meeting, you should plan on talking about something unfinished. The goal is to communicate where you are with the project and more importantly, what are the issues you are stuck on and where you could use help. This kind of talk is 
 
