@@ -25,7 +25,7 @@ Later the reasons evolve, altough not be as much as you'd think. The main change
 
 The importance of point 1 can't be overstated. The primary reason you are giving talks is for people to get to know you. Being well regarded is absolutely not the goal of academia. However, being well known and well regarded can make a huge range of parts of your job easier. So first and foremost make sure you don't forget to talk to people before, after, and during your talk. 
 
-Point 2 is more important than point 3. As a scientist, it is hard to accept that the primary purpose of a talk is advertising, not science. Here are reasons why entertainment is more important:
+Point 2 is more important than point 3. As a scientist, it is hard to accept that the primary purpose of a talk is advertising, not science. See for example Hilary Mason's great presentation [Entertain, don't teach](http://www.hilarymason.com/speaking/speaking-entertain-dont-teach/). Here are reasons why entertainment is more important:
 
 * People will legit fall asleep on you if you don't keep them awake - this is embarrassing
 * People will never understand your ideas/software/results if they fell asleep and didn't hear about them
@@ -125,6 +125,31 @@ Traditionally, people demonstrated #2 by showing that they could prove really ha
 Before giving a job talk ask around and get a feel for the sorts of things that people have heard about the place you are applying so you can be smart about your choices of how/what to present. 
 
 
+Answering hard questions
+-----------
+
+Inevitably you will get hard questions during your talk. The most important point is not to panic and not to get defensive. It is way better to just say _I don't know_, then to get upset. When you get asked a really hard question you should:
+
+* Take a second and a deep breath. If necessary, ask the person to repeat the question. 
+* Answer the question the best you can come up with on the spot
+* Say _I don't know_ if you don't know. If you say I don't know, then you can give your best guess and explain it is a guess. 
+
+The key is to distinguish what kind of response you are giving. Are you giving a response where you know the answer because you actually looked into that? Are you giving a complete guess where you have no idea? Or, what is more likely, are you somewhere in between? 
+
+Most importantly, don't feel embarrassed! Hard questions happen to everyone and if you are polite, explain how sure you are about your answer, and try your best it won't be a problem. 
+
+
+That one person who keeps going bonkers on you
+---------
+
+Almost everywhere you give a talk there will be a person who is upset/intense/aggressive. __Do not fall into the temptation to be aggressive in return__. Answer their first questions politely just like everyone else. If they keep asking really aggressive/lots of questions, you are within your rightst to say: "You are bringing up a lot of good issues, I'd be happy to discuss with you after the presentation more in depth, but in the interest of time I'm going to move on to the next part of my talk". It is ok to keep things moving and to finish on time. 
+
+Finishing on time
+----------
+
+Do it. People will love you for it. If you are the last speaker in a session and others have gone long, adapt and go shorter. The value you gain by making your audience happy >>>> the extra 5 minutes of details you could have explained. 
+
+
 Where you should put your talk
 -----------
 
@@ -133,8 +158,18 @@ If you have weblinks in your talk you need to post it online. There is no way pe
 I personally like Slideshare a little better these days because the slides are much easier to view on mobile phones and iPads, which is the most likely place someone will read your talk. 
 
 
+Examples
+------
+
+Use at your own risk, but these are talks I like or have given (or both :-). 
+
+* [Jeff/Leekgroup talks](http://jtleek.com/talks/)
+* [Karl Broman](http://kbroman.org/pages/talks.html)
+* [Zach Holmann](http://zachholman.com/talks)
+* [Hilary Mason](http://www.hilarymason.com/category/presentations-2/)
 
 
+Contributors
+------
 
-
-
+* [Jeff Leek](http://jtleek.com/)
