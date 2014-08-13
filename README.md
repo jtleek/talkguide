@@ -167,6 +167,14 @@ Use at your own risk, but these are talks I like or have given (or both :-).
 * [Karl Broman](http://kbroman.org/pages/talks.html)
 * [Zach Holmann](http://zachholman.com/talks)
 * [Hilary Mason](http://www.hilarymason.com/category/presentations-2/)
+* 
+
+
+Other good/interesting talk guides
+---------------
+
+* Nacho Caballero at [F1000Research blog](http://blog.f1000research.com/2014/08/13/how-to-give-a-talk-that-everyone-remembers/)
+* Alyssa Frazee on [her blog](http://alyssafrazee.com/ideas-for-super-awesome-conferences.html) 
 
 
 Contributors
