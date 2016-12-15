@@ -43,6 +43,7 @@ It depends on the event and the goals of the event. Here is a non-comprehensive 
 * __Group meeting__: 
   * __Goal__: Update people on what you are doing and get help.
   * __What to talk about__: Short intro on your problem, brief update on what you've tried, long discussion about where you are going/what you need help on. 
+  * __What to bring__: If you are seeking feedback, bring a notepad and pen to keep track of suggestions. You will most likely forget what you don't write down.
 * __Short talk at conference__:
   * __Goal__: Entertain people, get people to read your paper/blog or use your software. 
   * __What to talk about__: Short intro on your problem, brief explanation of solution, links to software
@@ -72,16 +73,18 @@ Style of your talk
 
 There are only a few hard and fast rules here. I really like Zach Holman's style guide [speaking.io](http://speaking.io/) and [his actual talks](http://zachholman.com/talks). My suggestion is pick one template/style and go with it for a few consecutive talks to avoid costly overhead. See what you like and what you don't, then edit. Here are the only hard and fast rules. 
 
-* Title slide must have a contactable form of you (twitter handle, email address, etc.)
-* Fonts can never be too big. Go huge. Small fonts will be met with anger. 
-* All figures should have big axes in plain English. 
-* Any figure you borrow off the internet should have a web link to the source
-* Any figure you borrow off a paper should have a web link to the paper
-* Any time you use someone else's slide you should put "Slide courtesy of So and so" with a link to their page
-* Unless you know what you are doing, pick a solid (dark/light) background slide color and an opposite (light/dark) font. 
-* Pictures beat words by a ratio of 1000 to 1 
-
-
+* Fonts/colors
+  * Title slide must have a contactable form of you (twitter handle, email address, etc.)
+  * Fonts can never be too big. Go huge. Small fonts will be met with anger. 
+  * Unless you know what you are doing, pick a solid (dark/light) background slide color and an opposite (light/dark) font. 
+* Figures
+  * Spend time on your figures; they should be clean and *self-explanatory* (although you will explain them)
+  * All figures should have big axes in plain English. 
+  * Any figure you borrow off the internet should have a web link to the source
+  * Any figure you borrow off a paper should have a web link to the paper
+  * Pictures beat words by a ratio of 1000 to 1. Pictures on an otherwise word-heavy slide add balance.
+* Borrowing
+  * Any time you use someone else's slide you should put "Slide courtesy of So and so" with a link to their page
 
 What you should say out loud about figures in your talk
 -----------
